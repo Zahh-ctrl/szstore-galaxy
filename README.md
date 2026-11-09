@@ -1,0 +1,1 @@
+# szstore-galaxy
